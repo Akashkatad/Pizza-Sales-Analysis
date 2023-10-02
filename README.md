@@ -3,13 +3,15 @@
 
 Task: Sales Data analysis for a Pizza Store.
 KPI Requirements: We aimed to analyze key indicators for Pizza sales data to gain insights into business performance.
-Specifically, we wanted to calculate:
+Specifically, 
 
-Total Revenue
-Average Order Value
-Total Pizzas Sold
-Total Orders
-Average Pizzas per Order
+we wanted to calculate:
+
+Total Revenue - 
+Average Order Value - 
+Total Pizzas Sold - 
+Total Orders - 
+Average Pizzas per Order 
 
 # **Dashboard Details:**
 
