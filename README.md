@@ -83,21 +83,6 @@ Based on the analysis conducted, I have gained several valuable insights into th
 
 8.Average Pizza Per Order: With an average of 2.32 pizzas per order, it is evident that customers usually come in groups when ordering. This suggests that the pizza shop attracts customers looking to share a meal or cater to gatherings or social events.
 
-# **Dashboard Details:**
-
-1st Dashboard:
-
-Daily trend for total orders
-Monthly trend for total orders
-Percentage of sales by Pizza Category
-Percentage of sales by Pizza size
-Total pizza sold by Pizza category
-
-2nd Dashboard:
-
-Top 5 best sellers (most popular pizza options) by Revenue, Total Quantity, and Total orders.
-Bottom 5 best sellers (underperforming or less popular pizza options) by Revenue, Total quantity, and Total orders.
-
 <a href="https://www.novypro.com/project/pizza-sales-analysis-power-bi-5" target="_blank">Explore the Interactive Dashboard</a>
 <img src="https://drive.google.com/uc?id=1zoJko-yTTnqP548jUxgq5wCODMfV2ilL" alt="Image Description" style="width:100%; max-width:800px;">
 
