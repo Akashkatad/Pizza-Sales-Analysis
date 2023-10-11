@@ -8,7 +8,7 @@ Understanding customer preferences and market trends is crucial for businesses t
 ## The main objectives of this analysis are as follows:
 
 
-🔘Examine customer preferences in terms of pizza size, category, and specific ingredients.
+🔘Examine customer preferences in terms of pizza size, category
 
 🔘Analyze revenue generation and identify the highest revenue-generating categories and pizzas.
 
