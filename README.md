@@ -61,7 +61,7 @@ The normalization process aims to organize the dataset into multiple tables, min
 ### 5.SQL Queries:
 I have utilized SQL queries to extract relevant information from the dataset. This involved querying the database to obtain insights into customer preferences, revenue generation, and order patterns.
 
-###6.Statistical Analysis:
+### 6.Statistical Analysis:
 I have applied various statistical techniques to uncover patterns and trends in the data. This included calculating summary statistics, identifying peak order times, and examining seasonal variations in sales.
 
 # Insights
